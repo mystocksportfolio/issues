@@ -1,3 +1,9 @@
+<!-- BADGES -->
+<p align="center">
+	<a href="https://mystocksportfolio.app/"><img alt="Discord" src="https://img.shields.io/discord/961040745693864006?logo=discord" /></a>
+</p>
+<!-- /BADGES -->
+
 # My Stocks Portfolio
 
 This project tracks issues and feature requests for the My Stocks Portfolio app
