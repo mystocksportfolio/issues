@@ -1,6 +1,6 @@
 <!-- BADGES -->
 <p align="center">
-	<a href="https://discord.gg/zNsakXpQ"><img alt="Discord" src="https://img.shields.io/discord/961040745693864006?logo=discord" /></a>
+	<a target="_blank" href="https://discord.gg/zNsakXpQ"><img alt="Discord" src="https://img.shields.io/discord/961040745693864006?logo=discord" /></a>
 </p>
 <!-- /BADGES -->
 
